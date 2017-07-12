@@ -5,6 +5,6 @@ package test;
  */
 public class Test {
     int x=0;
-
+int y =0;
 
 }
