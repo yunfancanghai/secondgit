@@ -5,9 +5,6 @@ package test;
  */
 public class Test {
     int x=0;
-    int y = 2;
-    int c=3;
-    public int sum(){
-        return x+y;
+
     }
 }
